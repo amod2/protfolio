@@ -53,25 +53,28 @@ body {
 }
 
 .skillsSection {
-  background: linear-gradient(
+  background-color:red;
+/* linear-gradient(
     270deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(9, 9, 121, 1) 0%,
     rgba(15, 124, 5, 1) 0%,
     rgba(0, 90, 143, 1) 100%
-  );
+  ); */
   color: #fff;
 }
 
 .contactSection {
+background-color:green;
+/*
   background: linear-gradient(
     90deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(9, 9, 121, 1) 0%,
     rgba(15, 124, 5, 1) 0%,
     rgba(0, 90, 143, 1) 100%
-  );
-  color: #fff;
+  ); */
+  color: #fff; 
 }
 
 .skill {
